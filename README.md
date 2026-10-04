@@ -8,12 +8,12 @@ In partnership with Toledo Community College (TCC) and Hillside Health Care, Tol
 
 ## Watch the flash talk (phone-friendly)
 
-**https://yeridu.github.io/THRIVE-Belize-APHA2026/** -- open this page on a phone or in any browser. The video plays with one tap and has captions. GitHub cannot play a video of this length inside the repository view, so this page is the easiest way to watch it.
+**https://yeridu.github.io/THRIVE-Belize-APHA2026/** -- open this page on a phone or in any browser. The video plays with one tap. GitHub cannot play a video of this length inside the repository view, so this page is the easiest way to watch it.
 
 ## Files in this repository
 
 - **[Poster (PDF)](poster/THRIVE-Belize_APHA2026_poster.pdf)** -- the print version, 90 x 44 inches. It opens in GitHub's PDF viewer.
-- **[Flash-talk video, about 3.7 minutes (MP4)](https://github.com/yeridu/THRIVE-Belize-APHA2026/raw/main/video/THRIVE-Belize_APHA2026_flash-talk.mp4)** -- click to download and play (about 4 MB). Captions are in [SRT](video/THRIVE-Belize_APHA2026_flash-talk.srt) and [WebVTT](video/THRIVE-Belize_APHA2026_flash-talk.vtt) format.
+- **[Flash-talk video, about 3.7 minutes (MP4)](https://github.com/yeridu/THRIVE-Belize-APHA2026/raw/main/video/THRIVE-Belize_APHA2026_flash-talk.mp4)** -- click to download and play (about 4 MB).
 - **[Abstract (PDF)](abstract/THRIVE-Belize_APHA2026_abstract_595775.pdf)** -- the abstract accepted for APHA 2026 (Abstract ID 595775).
 - **[Accessible handout (PDF)](handout/THRIVE-Belize_APHA2026_accessible_handout.pdf)** -- a tagged, screen-reader-friendly text version of the poster, with text descriptions of every figure.
 
